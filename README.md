@@ -1,5 +1,7 @@
 # Open Source Macroeconomics Laboratory (OSM Lab) Boot Camp 2018
 
+A test
+
 This public repository contains the training materials, tutorials, lecture notes, code, and problem sets for the seven-week Boot Camp of the Open Source Macroeconomics Laboratory (OSM Lab) at Becker Friedman Institute of the University of Chicago, June 18 to August 3. The OSM Lab was founded by Dr. Richard W. Evans, Senior Lecturer at the University of Chicago M.A. Program in Computational Social Science and Fellow at the Becker Friedman Institute. The OSM Lab is funded primarily from a 5-year grant from the Charles Koch Foundation. Part of this grant also included the creation of the Dynamic Analysis Center at the Baker Institute at Rice University, which is directed by John Diamond.
 
 This `README.md` serves as a syllabus and reference for the OSM Lab Boot Camp. This document has 11 sections.
